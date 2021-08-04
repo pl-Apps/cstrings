@@ -1,0 +1,5 @@
+#include "strings.c"
+
+#ifndef CSTRINGS
+#warning cstrings library not imported/installed correctly
+#endif
